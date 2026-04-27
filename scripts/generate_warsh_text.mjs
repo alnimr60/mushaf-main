@@ -47,7 +47,7 @@ async function processPage(pageNumber) {
     // Add Basmalah if it's the first verse of the surah (and not Surah 9)
     if (ayah === 1 && surah !== 9) {
       pageAyahs.push({
-        text: warshData.ayahs[0], // Basmalah is at index 0 in the APK data
+        text: warshData.ayahs[0].replace(/\uFE0E/g, ''), // Basmalah is at index 0 in the APK data
         numberInSurah: 0
       });
     }
@@ -63,7 +63,7 @@ async function processPage(pageNumber) {
     }
     
     pageAyahs.push({
-      text: text || "",
+      text: text ? text.replace(/\uFE0E/g, '') : "",
       numberInSurah: ayah,
       verse_key: verseKey
     });
