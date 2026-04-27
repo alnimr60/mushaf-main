@@ -1,0 +1,101 @@
+{
+  "riwayaId": "warsh",
+  "pageRange": "1-10",
+  "summary": {
+    "totalPages": 10,
+    "lowQualityPages": 10,
+    "missingPdfSourcePages": 0
+  },
+  "pages": [
+    {
+      "page": 1,
+      "status": "ok",
+      "ayahTokenCount": 29,
+      "pdfTokenCount": 6,
+      "pdfArabicRatio": 0,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 2,
+      "status": "ok",
+      "ayahTokenCount": 39,
+      "pdfTokenCount": 86,
+      "pdfArabicRatio": 0.09,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 3,
+      "status": "ok",
+      "ayahTokenCount": 131,
+      "pdfTokenCount": 108,
+      "pdfArabicRatio": 0.082,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 4,
+      "status": "ok",
+      "ayahTokenCount": 140,
+      "pdfTokenCount": 254,
+      "pdfArabicRatio": 0.03,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 5,
+      "status": "ok",
+      "ayahTokenCount": 138,
+      "pdfTokenCount": 290,
+      "pdfArabicRatio": 0.029,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 6,
+      "status": "ok",
+      "ayahTokenCount": 145,
+      "pdfTokenCount": 261,
+      "pdfArabicRatio": 0.033,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 7,
+      "status": "ok",
+      "ayahTokenCount": 135,
+      "pdfTokenCount": 293,
+      "pdfArabicRatio": 0.027,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 8,
+      "status": "ok",
+      "ayahTokenCount": 124,
+      "pdfTokenCount": 278,
+      "pdfArabicRatio": 0.027,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 9,
+      "status": "ok",
+      "ayahTokenCount": 135,
+      "pdfTokenCount": 263,
+      "pdfArabicRatio": 0.029,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    },
+    {
+      "page": 10,
+      "status": "ok",
+      "ayahTokenCount": 140,
+      "pdfTokenCount": 284,
+      "pdfArabicRatio": 0.03,
+      "tokenSimilarity": 0,
+      "lowQuality": true
+    }
+  ]
+}

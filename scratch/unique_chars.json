@@ -1,0 +1,1367 @@
+[
+  {
+    "char": "\t",
+    "hex": "0900",
+    "mapping": ""
+  },
+  {
+    "char": "!",
+    "hex": "2100",
+    "mapping": ""
+  },
+  {
+    "char": "#",
+    "hex": "2300",
+    "mapping": ""
+  },
+  {
+    "char": "$",
+    "hex": "2400",
+    "mapping": ""
+  },
+  {
+    "char": "%",
+    "hex": "2500",
+    "mapping": ""
+  },
+  {
+    "char": "&",
+    "hex": "2600",
+    "mapping": ""
+  },
+  {
+    "char": "'",
+    "hex": "2700",
+    "mapping": ""
+  },
+  {
+    "char": "(",
+    "hex": "2800",
+    "mapping": ""
+  },
+  {
+    "char": ")",
+    "hex": "2900",
+    "mapping": ""
+  },
+  {
+    "char": "*",
+    "hex": "2a00",
+    "mapping": ""
+  },
+  {
+    "char": ",",
+    "hex": "2c00",
+    "mapping": ""
+  },
+  {
+    "char": "-",
+    "hex": "2d00",
+    "mapping": ""
+  },
+  {
+    "char": ".",
+    "hex": "2e00",
+    "mapping": ""
+  },
+  {
+    "char": "/",
+    "hex": "2f00",
+    "mapping": ""
+  },
+  {
+    "char": "0",
+    "hex": "3000",
+    "mapping": ""
+  },
+  {
+    "char": "1",
+    "hex": "3100",
+    "mapping": ""
+  },
+  {
+    "char": "2",
+    "hex": "3200",
+    "mapping": ""
+  },
+  {
+    "char": "3",
+    "hex": "3300",
+    "mapping": ""
+  },
+  {
+    "char": "4",
+    "hex": "3400",
+    "mapping": ""
+  },
+  {
+    "char": "5",
+    "hex": "3500",
+    "mapping": ""
+  },
+  {
+    "char": "6",
+    "hex": "3600",
+    "mapping": ""
+  },
+  {
+    "char": "7",
+    "hex": "3700",
+    "mapping": ""
+  },
+  {
+    "char": "8",
+    "hex": "3800",
+    "mapping": ""
+  },
+  {
+    "char": "9",
+    "hex": "3900",
+    "mapping": ""
+  },
+  {
+    "char": ";",
+    "hex": "3b00",
+    "mapping": ""
+  },
+  {
+    "char": "<",
+    "hex": "3c00",
+    "mapping": ""
+  },
+  {
+    "char": "=",
+    "hex": "3d00",
+    "mapping": ""
+  },
+  {
+    "char": ">",
+    "hex": "3e00",
+    "mapping": ""
+  },
+  {
+    "char": "?",
+    "hex": "3f00",
+    "mapping": ""
+  },
+  {
+    "char": "B",
+    "hex": "4200",
+    "mapping": ""
+  },
+  {
+    "char": "F",
+    "hex": "4600",
+    "mapping": ""
+  },
+  {
+    "char": "G",
+    "hex": "4700",
+    "mapping": ""
+  },
+  {
+    "char": "H",
+    "hex": "4800",
+    "mapping": ""
+  },
+  {
+    "char": "I",
+    "hex": "4900",
+    "mapping": ""
+  },
+  {
+    "char": "J",
+    "hex": "4a00",
+    "mapping": ""
+  },
+  {
+    "char": "L",
+    "hex": "4c00",
+    "mapping": ""
+  },
+  {
+    "char": "M",
+    "hex": "4d00",
+    "mapping": ""
+  },
+  {
+    "char": "N",
+    "hex": "4e00",
+    "mapping": ""
+  },
+  {
+    "char": "O",
+    "hex": "4f00",
+    "mapping": ""
+  },
+  {
+    "char": "U",
+    "hex": "5500",
+    "mapping": ""
+  },
+  {
+    "char": "V",
+    "hex": "5600",
+    "mapping": ""
+  },
+  {
+    "char": "W",
+    "hex": "5700",
+    "mapping": ""
+  },
+  {
+    "char": "Y",
+    "hex": "5900",
+    "mapping": ""
+  },
+  {
+    "char": "Z",
+    "hex": "5a00",
+    "mapping": ""
+  },
+  {
+    "char": "[",
+    "hex": "5b00",
+    "mapping": ""
+  },
+  {
+    "char": "]",
+    "hex": "5d00",
+    "mapping": ""
+  },
+  {
+    "char": "_",
+    "hex": "5f00",
+    "mapping": ""
+  },
+  {
+    "char": "e",
+    "hex": "6500",
+    "mapping": ""
+  },
+  {
+    "char": "f",
+    "hex": "6600",
+    "mapping": ""
+  },
+  {
+    "char": "g",
+    "hex": "6700",
+    "mapping": ""
+  },
+  {
+    "char": "h",
+    "hex": "6800",
+    "mapping": ""
+  },
+  {
+    "char": "i",
+    "hex": "6900",
+    "mapping": ""
+  },
+  {
+    "char": "j",
+    "hex": "6a00",
+    "mapping": ""
+  },
+  {
+    "char": "k",
+    "hex": "6b00",
+    "mapping": ""
+  },
+  {
+    "char": "l",
+    "hex": "6c00",
+    "mapping": ""
+  },
+  {
+    "char": "m",
+    "hex": "6d00",
+    "mapping": ""
+  },
+  {
+    "char": "n",
+    "hex": "6e00",
+    "mapping": ""
+  },
+  {
+    "char": "o",
+    "hex": "6f00",
+    "mapping": ""
+  },
+  {
+    "char": "p",
+    "hex": "7000",
+    "mapping": ""
+  },
+  {
+    "char": "q",
+    "hex": "7100",
+    "mapping": ""
+  },
+  {
+    "char": "r",
+    "hex": "7200",
+    "mapping": ""
+  },
+  {
+    "char": "s",
+    "hex": "7300",
+    "mapping": ""
+  },
+  {
+    "char": "t",
+    "hex": "7400",
+    "mapping": ""
+  },
+  {
+    "char": "u",
+    "hex": "7500",
+    "mapping": ""
+  },
+  {
+    "char": "w",
+    "hex": "7700",
+    "mapping": ""
+  },
+  {
+    "char": "x",
+    "hex": "7800",
+    "mapping": ""
+  },
+  {
+    "char": "y",
+    "hex": "7900",
+    "mapping": ""
+  },
+  {
+    "char": "z",
+    "hex": "7a00",
+    "mapping": ""
+  },
+  {
+    "char": "{",
+    "hex": "7b00",
+    "mapping": ""
+  },
+  {
+    "char": "|",
+    "hex": "7c00",
+    "mapping": ""
+  },
+  {
+    "char": "¡",
+    "hex": "a100",
+    "mapping": ""
+  },
+  {
+    "char": "¢",
+    "hex": "a200",
+    "mapping": ""
+  },
+  {
+    "char": "£",
+    "hex": "a300",
+    "mapping": ""
+  },
+  {
+    "char": "§",
+    "hex": "a700",
+    "mapping": ""
+  },
+  {
+    "char": "¨",
+    "hex": "a800",
+    "mapping": ""
+  },
+  {
+    "char": "©",
+    "hex": "a900",
+    "mapping": ""
+  },
+  {
+    "char": "ª",
+    "hex": "aa00",
+    "mapping": ""
+  },
+  {
+    "char": "«",
+    "hex": "ab00",
+    "mapping": ""
+  },
+  {
+    "char": "¬",
+    "hex": "ac00",
+    "mapping": ""
+  },
+  {
+    "char": "®",
+    "hex": "ae00",
+    "mapping": ""
+  },
+  {
+    "char": "¯",
+    "hex": "af00",
+    "mapping": ""
+  },
+  {
+    "char": "±",
+    "hex": "b100",
+    "mapping": ""
+  },
+  {
+    "char": "³",
+    "hex": "b300",
+    "mapping": ""
+  },
+  {
+    "char": "¹",
+    "hex": "b900",
+    "mapping": ""
+  },
+  {
+    "char": "¼",
+    "hex": "bc00",
+    "mapping": ""
+  },
+  {
+    "char": "¿",
+    "hex": "bf00",
+    "mapping": ""
+  },
+  {
+    "char": "À",
+    "hex": "c000",
+    "mapping": ""
+  },
+  {
+    "char": "Á",
+    "hex": "c100",
+    "mapping": ""
+  },
+  {
+    "char": "Ä",
+    "hex": "c400",
+    "mapping": ""
+  },
+  {
+    "char": "Å",
+    "hex": "c500",
+    "mapping": ""
+  },
+  {
+    "char": "Ç",
+    "hex": "c700",
+    "mapping": ""
+  },
+  {
+    "char": "È",
+    "hex": "c800",
+    "mapping": ""
+  },
+  {
+    "char": "É",
+    "hex": "c900",
+    "mapping": ""
+  },
+  {
+    "char": "Ê",
+    "hex": "ca00",
+    "mapping": ""
+  },
+  {
+    "char": "Ì",
+    "hex": "cc00",
+    "mapping": ""
+  },
+  {
+    "char": "Í",
+    "hex": "cd00",
+    "mapping": ""
+  },
+  {
+    "char": "Î",
+    "hex": "ce00",
+    "mapping": ""
+  },
+  {
+    "char": "Ï",
+    "hex": "cf00",
+    "mapping": ""
+  },
+  {
+    "char": "Ò",
+    "hex": "d200",
+    "mapping": ""
+  },
+  {
+    "char": "Ó",
+    "hex": "d300",
+    "mapping": ""
+  },
+  {
+    "char": "Ö",
+    "hex": "d600",
+    "mapping": ""
+  },
+  {
+    "char": "×",
+    "hex": "d700",
+    "mapping": ""
+  },
+  {
+    "char": "Ø",
+    "hex": "d800",
+    "mapping": ""
+  },
+  {
+    "char": "Ú",
+    "hex": "da00",
+    "mapping": ""
+  },
+  {
+    "char": "Û",
+    "hex": "db00",
+    "mapping": ""
+  },
+  {
+    "char": "Ü",
+    "hex": "dc00",
+    "mapping": ""
+  },
+  {
+    "char": "Ý",
+    "hex": "dd00",
+    "mapping": ""
+  },
+  {
+    "char": "Þ",
+    "hex": "de00",
+    "mapping": ""
+  },
+  {
+    "char": "ß",
+    "hex": "df00",
+    "mapping": ""
+  },
+  {
+    "char": "à",
+    "hex": "e000",
+    "mapping": ""
+  },
+  {
+    "char": "á",
+    "hex": "e100",
+    "mapping": ""
+  },
+  {
+    "char": "â",
+    "hex": "e200",
+    "mapping": ""
+  },
+  {
+    "char": "ã",
+    "hex": "e300",
+    "mapping": ""
+  },
+  {
+    "char": "ä",
+    "hex": "e400",
+    "mapping": ""
+  },
+  {
+    "char": "æ",
+    "hex": "e600",
+    "mapping": ""
+  },
+  {
+    "char": "ç",
+    "hex": "e700",
+    "mapping": ""
+  },
+  {
+    "char": "è",
+    "hex": "e800",
+    "mapping": ""
+  },
+  {
+    "char": "é",
+    "hex": "e900",
+    "mapping": ""
+  },
+  {
+    "char": "ë",
+    "hex": "eb00",
+    "mapping": ""
+  },
+  {
+    "char": "ì",
+    "hex": "ec00",
+    "mapping": ""
+  },
+  {
+    "char": "í",
+    "hex": "ed00",
+    "mapping": ""
+  },
+  {
+    "char": "î",
+    "hex": "ee00",
+    "mapping": ""
+  },
+  {
+    "char": "ó",
+    "hex": "f300",
+    "mapping": ""
+  },
+  {
+    "char": "ô",
+    "hex": "f400",
+    "mapping": ""
+  },
+  {
+    "char": "õ",
+    "hex": "f500",
+    "mapping": ""
+  },
+  {
+    "char": "ö",
+    "hex": "f600",
+    "mapping": ""
+  },
+  {
+    "char": "÷",
+    "hex": "f700",
+    "mapping": ""
+  },
+  {
+    "char": "ø",
+    "hex": "f800",
+    "mapping": ""
+  },
+  {
+    "char": "ù",
+    "hex": "f900",
+    "mapping": ""
+  },
+  {
+    "char": "û",
+    "hex": "fb00",
+    "mapping": ""
+  },
+  {
+    "char": "þ",
+    "hex": "fe00",
+    "mapping": ""
+  },
+  {
+    "char": "ÿ",
+    "hex": "ff00",
+    "mapping": ""
+  },
+  {
+    "char": "Œ",
+    "hex": "5201",
+    "mapping": ""
+  },
+  {
+    "char": "Š",
+    "hex": "6001",
+    "mapping": ""
+  },
+  {
+    "char": "š",
+    "hex": "6101",
+    "mapping": ""
+  },
+  {
+    "char": "Ÿ",
+    "hex": "7801",
+    "mapping": ""
+  },
+  {
+    "char": "ƒ",
+    "hex": "9201",
+    "mapping": ""
+  },
+  {
+    "char": "Α",
+    "hex": "9103",
+    "mapping": ""
+  },
+  {
+    "char": "Β",
+    "hex": "9203",
+    "mapping": ""
+  },
+  {
+    "char": "Ε",
+    "hex": "9503",
+    "mapping": ""
+  },
+  {
+    "char": "Ζ",
+    "hex": "9603",
+    "mapping": ""
+  },
+  {
+    "char": "Η",
+    "hex": "9703",
+    "mapping": ""
+  },
+  {
+    "char": "Θ",
+    "hex": "9803",
+    "mapping": ""
+  },
+  {
+    "char": "Κ",
+    "hex": "9a03",
+    "mapping": ""
+  },
+  {
+    "char": "Λ",
+    "hex": "9b03",
+    "mapping": ""
+  },
+  {
+    "char": "Ν",
+    "hex": "9d03",
+    "mapping": ""
+  },
+  {
+    "char": "Ξ",
+    "hex": "9e03",
+    "mapping": ""
+  },
+  {
+    "char": "Ο",
+    "hex": "9f03",
+    "mapping": ""
+  },
+  {
+    "char": "Π",
+    "hex": "a003",
+    "mapping": ""
+  },
+  {
+    "char": "Ρ",
+    "hex": "a103",
+    "mapping": ""
+  },
+  {
+    "char": "Σ",
+    "hex": "a303",
+    "mapping": ""
+  },
+  {
+    "char": "Υ",
+    "hex": "a503",
+    "mapping": ""
+  },
+  {
+    "char": "Χ",
+    "hex": "a703",
+    "mapping": ""
+  },
+  {
+    "char": "Ψ",
+    "hex": "a803",
+    "mapping": ""
+  },
+  {
+    "char": "β",
+    "hex": "b203",
+    "mapping": ""
+  },
+  {
+    "char": "γ",
+    "hex": "b303",
+    "mapping": ""
+  },
+  {
+    "char": "δ",
+    "hex": "b403",
+    "mapping": ""
+  },
+  {
+    "char": "ε",
+    "hex": "b503",
+    "mapping": ""
+  },
+  {
+    "char": "θ",
+    "hex": "b803",
+    "mapping": ""
+  },
+  {
+    "char": "ι",
+    "hex": "b903",
+    "mapping": ""
+  },
+  {
+    "char": "κ",
+    "hex": "ba03",
+    "mapping": ""
+  },
+  {
+    "char": "λ",
+    "hex": "bb03",
+    "mapping": ""
+  },
+  {
+    "char": "μ",
+    "hex": "bc03",
+    "mapping": ""
+  },
+  {
+    "char": "ξ",
+    "hex": "be03",
+    "mapping": ""
+  },
+  {
+    "char": "ο",
+    "hex": "bf03",
+    "mapping": ""
+  },
+  {
+    "char": "π",
+    "hex": "c003",
+    "mapping": ""
+  },
+  {
+    "char": "ρ",
+    "hex": "c103",
+    "mapping": ""
+  },
+  {
+    "char": "φ",
+    "hex": "c603",
+    "mapping": ""
+  },
+  {
+    "char": "χ",
+    "hex": "c703",
+    "mapping": ""
+  },
+  {
+    "char": "ω",
+    "hex": "c903",
+    "mapping": ""
+  },
+  {
+    "char": "ϑ",
+    "hex": "d103",
+    "mapping": ""
+  },
+  {
+    "char": "ء",
+    "hex": "2106",
+    "mapping": ""
+  },
+  {
+    "char": "ا",
+    "hex": "2706",
+    "mapping": ""
+  },
+  {
+    "char": "ت",
+    "hex": "2a06",
+    "mapping": ""
+  },
+  {
+    "char": "ج",
+    "hex": "2c06",
+    "mapping": ""
+  },
+  {
+    "char": "ح",
+    "hex": "2d06",
+    "mapping": ""
+  },
+  {
+    "char": "د",
+    "hex": "2f06",
+    "mapping": ""
+  },
+  {
+    "char": "ف",
+    "hex": "4106",
+    "mapping": ""
+  },
+  {
+    "char": "ل",
+    "hex": "4406",
+    "mapping": ""
+  },
+  {
+    "char": "م",
+    "hex": "4506",
+    "mapping": ""
+  },
+  {
+    "char": "ن",
+    "hex": "4606",
+    "mapping": ""
+  },
+  {
+    "char": "ي",
+    "hex": "4a06",
+    "mapping": ""
+  },
+  {
+    "char": "١",
+    "hex": "6106",
+    "mapping": ""
+  },
+  {
+    "char": "٢",
+    "hex": "6206",
+    "mapping": ""
+  },
+  {
+    "char": "٣",
+    "hex": "6306",
+    "mapping": ""
+  },
+  {
+    "char": "٤",
+    "hex": "6406",
+    "mapping": ""
+  },
+  {
+    "char": "٥",
+    "hex": "6506",
+    "mapping": ""
+  },
+  {
+    "char": "—",
+    "hex": "1420",
+    "mapping": ""
+  },
+  {
+    "char": "‘",
+    "hex": "1820",
+    "mapping": ""
+  },
+  {
+    "char": "’",
+    "hex": "1920",
+    "mapping": ""
+  },
+  {
+    "char": "‚",
+    "hex": "1a20",
+    "mapping": ""
+  },
+  {
+    "char": "“",
+    "hex": "1c20",
+    "mapping": ""
+  },
+  {
+    "char": "„",
+    "hex": "1e20",
+    "mapping": ""
+  },
+  {
+    "char": "†",
+    "hex": "2020",
+    "mapping": ""
+  },
+  {
+    "char": "•",
+    "hex": "2220",
+    "mapping": ""
+  },
+  {
+    "char": "…",
+    "hex": "2620",
+    "mapping": ""
+  },
+  {
+    "char": "‰",
+    "hex": "3020",
+    "mapping": ""
+  },
+  {
+    "char": "‹",
+    "hex": "3920",
+    "mapping": ""
+  },
+  {
+    "char": "™",
+    "hex": "2221",
+    "mapping": ""
+  },
+  {
+    "char": "∆",
+    "hex": "0622",
+    "mapping": ""
+  },
+  {
+    "char": "∇",
+    "hex": "0722",
+    "mapping": ""
+  },
+  {
+    "char": "∈",
+    "hex": "0822",
+    "mapping": ""
+  },
+  {
+    "char": "∉",
+    "hex": "0922",
+    "mapping": ""
+  },
+  {
+    "char": "∏",
+    "hex": "0f22",
+    "mapping": ""
+  },
+  {
+    "char": "−",
+    "hex": "1222",
+    "mapping": ""
+  },
+  {
+    "char": "∠",
+    "hex": "2022",
+    "mapping": ""
+  },
+  {
+    "char": "∩",
+    "hex": "2922",
+    "mapping": ""
+  },
+  {
+    "char": "∪",
+    "hex": "2a22",
+    "mapping": ""
+  },
+  {
+    "char": "≅",
+    "hex": "4522",
+    "mapping": ""
+  },
+  {
+    "char": "≈",
+    "hex": "4822",
+    "mapping": ""
+  },
+  {
+    "char": "≡",
+    "hex": "6122",
+    "mapping": ""
+  },
+  {
+    "char": "⊂",
+    "hex": "8222",
+    "mapping": ""
+  },
+  {
+    "char": "⊃",
+    "hex": "8322",
+    "mapping": ""
+  },
+  {
+    "char": "⊄",
+    "hex": "8422",
+    "mapping": ""
+  },
+  {
+    "char": "⊆",
+    "hex": "8622",
+    "mapping": ""
+  },
+  {
+    "char": "⊇",
+    "hex": "8722",
+    "mapping": ""
+  },
+  {
+    "char": "⊗",
+    "hex": "9722",
+    "mapping": ""
+  },
+  {
+    "char": "⎥",
+    "hex": "a523",
+    "mapping": ""
+  },
+  {
+    "char": "⎦",
+    "hex": "a623",
+    "mapping": ""
+  },
+  {
+    "char": "⎧",
+    "hex": "a723",
+    "mapping": ""
+  },
+  {
+    "char": "⎪",
+    "hex": "aa23",
+    "mapping": ""
+  },
+  {
+    "char": "⎫",
+    "hex": "ab23",
+    "mapping": ""
+  },
+  {
+    "char": "⎯",
+    "hex": "af23",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "3bf0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "79f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "81f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "8bf0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "8df0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "8ef0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "8ff0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "90f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "91f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "96f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "97f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "9ef0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "e3f0",
+    "mapping": ""
+  },
+  {
+    "char": "",
+    "hex": "fff0",
+    "mapping": ""
+  },
+  {
+    "char": "ﺍ",
+    "hex": "8dfe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺎ",
+    "hex": "8efe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺑ",
+    "hex": "91fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺒ",
+    "hex": "92fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺔ",
+    "hex": "94fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺘ",
+    "hex": "98fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺨ",
+    "hex": "a8fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺪ",
+    "hex": "aafe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺭ",
+    "hex": "adfe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺮ",
+    "hex": "aefe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺵ",
+    "hex": "b5fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺺ",
+    "hex": "bafe",
+    "mapping": ""
+  },
+  {
+    "char": "ﺻ",
+    "hex": "bbfe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻈ",
+    "hex": "c8fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻊ",
+    "hex": "cafe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻋ",
+    "hex": "cbfe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻏ",
+    "hex": "cffe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻐ",
+    "hex": "d0fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻒ",
+    "hex": "d2fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻓ",
+    "hex": "d3fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻔ",
+    "hex": "d4fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻗ",
+    "hex": "d7fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻘ",
+    "hex": "d8fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻞ",
+    "hex": "defe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻟ",
+    "hex": "dffe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻠ",
+    "hex": "e0fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻢ",
+    "hex": "e2fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻣ",
+    "hex": "e3fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻤ",
+    "hex": "e4fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻦ",
+    "hex": "e6fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻧ",
+    "hex": "e7fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻭ",
+    "hex": "edfe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻳ",
+    "hex": "f3fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻴ",
+    "hex": "f4fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻹ",
+    "hex": "f9fe",
+    "mapping": ""
+  },
+  {
+    "char": "ﻼ",
+    "hex": "fcfe",
+    "mapping": ""
+  }
+]
