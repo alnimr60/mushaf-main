@@ -20,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/3bd94208-902b-433d-87d3-b128e
    `npm run dev`
 "# mushaf-main-" 
 "# mushaf-main-" 
+"# mushaf-main" 
