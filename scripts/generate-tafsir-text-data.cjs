@@ -13,7 +13,7 @@ const riwayaMap = {
   "susi": "soosi",
   "duri": "doori",
   "qunbul": "qunbul",
-  "bazzi": "bazzi",
+  "bazzi": "albazzi",
   "shuba": "shoubah",
 };
 
