@@ -16,6 +16,7 @@
   font-display: swap;
 }
 
+@font-face { font-family: 'UthmanicWarsh1'; src: url('https://tafsir.app/assets/fonts/UthmanicWarsh1%20Ver05.woff2') format('woff2'); font-display: swap; }
 @font-face { font-family: 'UthmanicSoosi1'; src: url('https://tafsir.app/assets/fonts/UthmanicSoosi1%20Ver05.woff2') format('woff2'); font-display: swap; }
 @font-face { font-family: 'UthmanicDoori1'; src: url('https://tafsir.app/assets/fonts/UthmanicDoori1%20Ver05.woff2') format('woff2'); font-display: swap; }
 @font-face { font-family: 'UthmanicQunbul1'; src: url('https://tafsir.app/assets/fonts/UthmanicQunbul1%20Ver05.woff2') format('woff2'); font-display: swap; }
@@ -110,6 +111,7 @@ body {
   text-justify: inter-word;
 }
 
+.font-warsh { font-family: "UthmanicWarsh1", "KitabBase", var(--font-quran); }
 .font-susi { font-family: "UthmanicSoosi1", "KitabBase", var(--font-quran); }
 .font-duri { font-family: "UthmanicDoori1", "KitabBase", var(--font-quran); }
 .font-qunbul { font-family: "UthmanicQunbul1", "KitabBase", var(--font-quran); }
