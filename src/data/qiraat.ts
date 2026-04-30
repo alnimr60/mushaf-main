@@ -13,16 +13,16 @@ export const QIRAAT_DATA: Qiraa[] = [
     id: "ibn_kathir",
     name: "ابن كثير المكي",
     riwayat: [
-      { id: "bazzi", name: "البزي", type: 'image', imagePath: "/assets/quran/ibn_kathir/bazzi", repoName: "bazzi", extension: "webp" },
-      { id: "qunbul", name: "قنبل", type: 'image', imagePath: "/assets/quran/ibn_kathir/qunbul", repoName: "qunbul", extension: "webp" },
+      { id: "bazzi", name: "البزي", type: 'text', imagePath: "/assets/quran/ibn_kathir/bazzi", repoName: "bazzi", extension: "webp" },
+      { id: "qunbul", name: "قنبل", type: 'text', imagePath: "/assets/quran/ibn_kathir/qunbul", repoName: "qunbul", extension: "webp" },
     ],
   },
   {
     id: "abu_amr",
     name: "أبو عمرو بن العلاء",
     riwayat: [
-      { id: "duri", name: "الدوري", type: 'image', imagePath: "/assets/quran/abu_amr/duri", repoName: "duri", extension: "webp" },
-      { id: "susi", name: "السوسي", type: 'image', imagePath: "/assets/quran/abu_amr/susi", repoName: "susi", extension: "webp" },
+      { id: "duri", name: "الدوري", type: 'text', imagePath: "/assets/quran/abu_amr/duri", repoName: "duri", extension: "webp" },
+      { id: "susi", name: "السوسي", type: 'text', imagePath: "/assets/quran/abu_amr/susi", repoName: "susi", extension: "webp" },
     ],
   },
   {
@@ -37,7 +37,7 @@ export const QIRAAT_DATA: Qiraa[] = [
     id: "asim",
     name: "عاصم بن أبي النجود",
     riwayat: [
-      { id: "shuba", name: "شعبة", type: 'image', imagePath: "/assets/quran/asim/shuba", repoName: "shuba", extension: "webp" },
+      { id: "shuba", name: "شعبة", type: 'text', imagePath: "/assets/quran/asim/shuba", repoName: "shuba", extension: "webp" },
       { id: "hafs", name: "حفص", type: 'text', imagePath: "/assets/quran/asim/hafs", repoName: "hafs", extension: "webp" },
     ],
   },

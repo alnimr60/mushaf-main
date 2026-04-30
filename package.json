@@ -10,6 +10,11 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "gen:warsh:text": "node scripts/generate-warsh-text-data.cjs",
+    "gen:susi:text": "node scripts/generate-tafsir-text-data.cjs --riwaya susi",
+    "gen:duri:text": "node scripts/generate-tafsir-text-data.cjs --riwaya duri",
+    "gen:qunbul:text": "node scripts/generate-tafsir-text-data.cjs --riwaya qunbul",
+    "gen:bazzi:text": "node scripts/generate-tafsir-text-data.cjs --riwaya bazzi",
+    "gen:shuba:text": "node scripts/generate-tafsir-text-data.cjs --riwaya shuba",
     "validate:warsh:text": "node scripts/validate-warsh-text-data.cjs",
     "report:warsh:pdf": "node scripts/report-warsh-pdf-quality.cjs"
   },
