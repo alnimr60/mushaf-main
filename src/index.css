@@ -16,6 +16,13 @@
   font-display: swap;
 }
 
+@font-face { font-family: 'UthmanicSoosi1'; src: url('https://tafsir.app/assets/fonts/UthmanicSoosi1%20Ver05.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'UthmanicDoori1'; src: url('https://tafsir.app/assets/fonts/UthmanicDoori1%20Ver05.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'UthmanicQunbul1'; src: url('https://tafsir.app/assets/fonts/UthmanicQunbul1%20Ver05.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'UthmanicBazzi1'; src: url('https://tafsir.app/assets/fonts/UthmanicBazzi1%20Ver05.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'UthmanicShoubah1'; src: url('https://tafsir.app/assets/fonts/UthmanicShoubah1%20Ver05.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'KitabBase'; src: url('https://fonts.nuqayah.com/kitab-base.woff2?v3') format('woff2'); font-display: swap; }
+
 :root {
   --background: 40 20% 96%; /* #F8F6F2 */
   --foreground: 25 35% 13%; /* #2C1E14 */
@@ -102,6 +109,12 @@ body {
   text-align: justify;
   text-justify: inter-word;
 }
+
+.font-susi { font-family: "UthmanicSoosi1", "KitabBase", var(--font-quran); }
+.font-duri { font-family: "UthmanicDoori1", "KitabBase", var(--font-quran); }
+.font-qunbul { font-family: "UthmanicQunbul1", "KitabBase", var(--font-quran); }
+.font-bazzi { font-family: "UthmanicBazzi1", "KitabBase", var(--font-quran); }
+.font-shuba { font-family: "UthmanicShoubah1", "KitabBase", var(--font-quran); }
 
 .ayah-number {
   display: inline-flex;

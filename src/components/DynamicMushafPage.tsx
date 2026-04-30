@@ -105,7 +105,10 @@ export default function DynamicMushafPage({ page, riwaya }: DynamicMushafPagePro
         </div>
         <div className="w-full max-w-2xl mx-auto flex-1">
           <div 
-            className="quran-text text-xl sm:text-2xl md:text-3xl text-[#2C1E14]"
+            className={cn(
+              "quran-text text-xl sm:text-2xl md:text-3xl text-[#2C1E14]",
+              `font-${riwaya.id}`
+            )}
           >
             {ayahs.map((ayah, aIdx) => (
               <React.Fragment key={aIdx}>
